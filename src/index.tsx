@@ -11,6 +11,7 @@ type DidactElement = {
   };
 };
 
+/** @jsxRuntime classic */
 /** @jsx Didact.createElement */
 const element = (
   <div id="foo">
